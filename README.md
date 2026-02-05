@@ -49,8 +49,8 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: *(add your link here)*
-- 🌍 Portfolio: *(coming soon)*
+- 💼 LinkedIn:<a href="https://www.linkedin.com/in/rohit-kharat-1b4616316" target="_blank">View LinkedIn</a>
+- 🌍 Portfolio: <a href="https://rohit-kharat.github.io/PORTFOLIO/" target="_blank">Visit Portfolio</a>
 
 ---
 
