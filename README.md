@@ -58,8 +58,8 @@
   <img src="https://komarev.com/ghpvc/?username=Rohit-Kharat&style=flat-square&color=38BDF8" />
 </p>
 
-## 🐍 Contribution Snake
-![snake](https://raw.githubusercontent.com/Rohit-Kharat/Rohit-Kharat/output/github-contribution-grid-snake-dark.svg)
+<!-- ## 🐍 Contribution Snake
+![snake](https://raw.githubusercontent.com/Rohit-Kharat/Rohit-Kharat/output/github-contribution-grid-snake-dark.svg) -->
 
 
 ⭐ *Fun fact:* I design systems before I write code.
