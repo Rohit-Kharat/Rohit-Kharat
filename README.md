@@ -25,7 +25,6 @@
 
 ## 📌 Featured Projects
 - 🚀 **SnapSphere** – Instagram-like social platform (MERN, Socket.io, OAuth)
-- 🤖 **DAgent** – Unified AI Agent Routing Platform
 - 🛠️ **TPM & Kaizen Platform** – Enterprise workflow automation
 - 📦 **SDKs & Microservices** – High-performance backend systems
 
