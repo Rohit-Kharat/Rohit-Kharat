@@ -31,14 +31,7 @@ Currently exploring full-stack and backend engineering roles where I can build i
 
 ---
 
-## 📌 Featured Projects
-- 🚀 **SnapSphere** – Instagram-like social platform (MERN, Socket.io, OAuth)
-- 🛠️ **TPM & Kaizen Platform** – Enterprise workflow automation
-- 📦 **SDKs & Microservices** – High-performance backend systems
 
-👉 *Pin these repositories on your profile for maximum impact.*
-
----
 
 
 
