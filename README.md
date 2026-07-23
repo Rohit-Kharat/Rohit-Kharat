@@ -17,11 +17,16 @@
 ---
 
 ## 🧰 Tech Stack & Git Contribution
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux,tailwind,js,ts,git,docker,postgres,prisma,firebase,supabase,bun,aws,kubernetes,vue,vercel,redis,graphql,nginx,postman&perline=6"
-    style="margin-right: 30px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Kharat&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<table align="center">
+  <tr>
+    <td style="padding-right:40px;">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux,tailwind,js,ts,git,docker,postgres,prisma,firebase,supabase,bun,aws,kubernetes,vue,vercel,redis,graphql,nginx,postman&perline=6" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Kharat&theme=tokyonight&hide_border=true" height="165" />
+    </td>
+  </tr>
+</table>
 
 
 ---
