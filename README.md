@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohit Kharat</h1>
-<h3 align="center">Full Stack Developer | MERN | Backend & System Design</h3>
+<h3 align="center">Full Stack Developer | System Architect | AI-Integrated Web Platforms</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;Backend+Team+Lead;System+Design+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;System+Architect;AI+%26+LLM+Integration;Real-Time+Systems+Builder" />
 </p>
 
 ---
