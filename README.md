@@ -18,7 +18,7 @@
 
 ## 🧰 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux,tailwind,js,ts,git,docker,postgres,prisma,firebase,bunjs,supabase,bun,aws,kubernetes,vue,vercel,redis,graphql,nginx,postman" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux,tailwind,js,ts,git,docker,postgres,prisma,firebase,bunjs,supabase,bun,aws,kubernetes,vue,vercel,redis,graphql,nginx,postman&perline=6" />
 </p>
 
 ---
