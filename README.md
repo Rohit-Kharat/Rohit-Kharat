@@ -40,12 +40,7 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohit-Kharat&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
 
----
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn:<a href="https://www.linkedin.com/in/rohit-kharat-1b4616316" target="_blank">View LinkedIn</a>
