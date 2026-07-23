@@ -8,11 +8,11 @@
 ---
 
 ## 🚀 About Me
-- 💻 Full Stack Developer with strong **backend & system design focus**
-- 🧠 Love building **scalable, production-ready systems**
-- 🔥 Worked on **real-time apps, microservices & SDKs**
-- 🌱 Currently exploring **Cloud, DevOps & AI integrations**
-- ⚡ Believe in **clean code > fancy code**
+--A full-stack developer working on scalable web platforms and AI-integrated systems.
+--
+I build production-grade REST APIs, real-time systems (WebSockets, Socket.io), and full-stack applications using the MERN/Next.js ecosystem, with growing experience in LLM integration, RAG, and geospatial data pipelines. I enjoy owning projects end-to-end — from system architecture to deployment — and turning complex problems into clean, usable software.
+
+--Currently exploring full-stack and backend engineering roles where I can build impactful, production-ready products.
 
 ---
 
