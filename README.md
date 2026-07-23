@@ -17,7 +17,7 @@
 ---
 
 ## 🧰 Tech Stack & Git Contribution
-<p align="center>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux,tailwind,js,ts,git,docker,postgres,prisma,firebase,supabase,bun,aws,kubernetes,vue,vercel,redis,graphql,nginx,postman&perline=6" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Kharat&theme=tokyonight&hide_border=true" height="165"/>
 </p>
