@@ -37,7 +37,7 @@ Currently exploring full-stack and backend engineering roles where I can build i
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn:<a href="https://www.linkedin.com/in/rohit-kharat-1b4616316" target="_blank">View LinkedIn</a>
-- 🌍 Portfolio: <a href="[https://rohit-kharat.github.io/PORTFOLIO/](https://portfolio-update-sigma.vercel.app/)" target="_blank">Visit Portfolio</a>
+- 🌍 Portfolio: <a href="https://portfolio-update-sigma.vercel.app/" target="_blank">Visit Portfolio</a>
 
 ---
 
